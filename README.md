@@ -1,5 +1,5 @@
 # <img src ="/images/india.png" height="30px"> Indian Lok Sabha Election Results Analysis and Visualization
-<i> Indian Lok Sabha General 2019 and 2014 Election Results : Simple Visualization &amp; Analysis.</i>
+<i> Indian Lok Sabha General 2019 and 2014 Election Results : Simple Visualization &amp; Analysis on a choropleth map</i>
 
 - For running the interactive version of this on your own system:
 
